@@ -3,4 +3,4 @@
 ### S385218 -  Rahil Mukhi
 ### S385593 - Aashish
 ### S394886 - Kar Keat (Kingsley)
-    LinkedIn - www.linkedin.com/in/kingsley-koh
+    [LinkedIn - Kar Keat](https://www.linkedin.com/in/kingsley-koh)
