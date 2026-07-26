@@ -5,3 +5,4 @@
 ### S394886 - Kar Keat (Kingsley)
 [LinkedIn - Kar Keat](https://www.linkedin.com/in/kingsley-koh)
 ### S390115 - Simin Li
+### s392088 - Jianlong Chen (Jeremy)
