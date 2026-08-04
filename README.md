@@ -6,3 +6,8 @@
 [LinkedIn - Kar Keat](https://www.linkedin.com/in/kingsley-koh)
 ### S390115 - Simin Li
 ### s392088 - Jianlong Chen (Jeremy)
+### S395663 - Jeffrey Chua Jia Hao
+### S394044 - Anupoma Angasree Toma
+### S379862 - Luong Thuy Dieu Nguyen (Maris)
+### S387478 - Jay Malcampo
+### S388252 - Susmita Aryal
