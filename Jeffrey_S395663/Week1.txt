@@ -1,0 +1,64 @@
+| Category               | Common requirements                                                       |
+| ---------------------- | ------------------------------------------------------------------------- |
+| Requirements analysis  | Gather, analyse and document business and functional requirements         |
+| Stakeholder management | Communicate with business, technical and project stakeholders             |
+| Workshop facilitation  | Conduct interviews, workshops and stakeholder meetings                    |
+| Documentation          | Produce user stories, functional specifications and business requirements |
+| Process analysis       | Analyse current processes and identify improvements                       |
+| Communication          | Translate technical information into clear business language              |
+| Risk management        | Identify risks, assumptions, issues and dependencies                      |
+| Solution delivery      | Work with technical teams to ensure solutions meet business needs         |
+| Personal skills        | Work independently, manage priorities and solve complex problems          |
+
+
+| Tool/Technology | Purpose                              | Learning Resource   |
+| --------------- | ------------------------------------ | ------------------- |
+| Jira            | Manage requirements and user stories | Atlassian tutorials |
+| Microsoft Visio | Create process maps and diagrams     | Microsoft Learn     |
+| SQL             | Query and analyse data               | SQL tutorials       |
+| Power BI        | Analyse and visualise business data  | Microsoft Learn     |
+| Confluence      | Store and share project documentation| Atlassian tutorials |
+
+
+
+1. Jira
+
+What it is: Jira is a project management tool used by agile teams.
+Why it is used: It helps teams record requirements, manage user stories and track project tasks.
+Common use cases: Sprint planning, issue tracking, requirement management and task allocation.
+Simple example: A Business Analyst can create a user story in Jira and assign it to the development team.
+
+2. Microsoft Visio
+
+What it is: Microsoft Visio is a diagramming and process-mapping tool.
+Why it is used: It helps Business Analysts present complex business processes visually.
+Common use cases: As-Is and To-Be process maps, flowcharts and data flow diagrams.
+Simple example: A Business Analyst can use Visio to show how a customer request moves through different departments.
+
+3. SQL
+
+What it is: SQL is a language used to access and manage data stored in databases.
+Why it is used: It allows Business Analysts to examine data and support evidence-based decisions.
+Common use cases: Retrieving data, filtering records, checking data quality and producing reports.
+Simple example: A Business Analyst can use an SQL query to identify customers with overdue payments.
+
+4. Power BI
+
+What it is: Power BI is a business intelligence and data visualisation tool.
+Why it is used: It converts business data into reports and interactive dashboards.
+Common use cases: Performance reporting, trend analysis and presentation of key business metrics.
+Simple example: A Business Analyst can create a dashboard showing monthly collection performance.
+
+5. Confluence
+
+What it is: Confluence is an online documentation and collaboration platform.
+Why it is used: It allows project teams to store and share requirements and project information.
+Common use cases: Meeting notes, business requirements, project documentation and team knowledge sharing.
+Simple example: A Business Analyst can publish workshop notes and approved requirements in Confluence.
+
+
+| Week   | Learning activities                                                    |
+| ------ | ---------------------------------------------------------------------- |
+| Week 1 | Learn the basics of Jira and practise creating user stories.           |
+| Week 2 | Learn Microsoft Visio and create a simple As-Is and To-Be process map. |
+| Week 3 | Learn basic SQL queries and create a simple Power BI report.           |
